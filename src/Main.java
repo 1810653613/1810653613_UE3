@@ -6,6 +6,12 @@ public class Main
     public static void main(String[] args)
     {
        partialString("hallo");
+       Taschenrechner.Addieren();
+       Taschenrechner.Subtrahieren();
+       Taschenrechner.Mulitplizieren();
+       Taschenrechner.Dividieren();
+
+
     }
     public static void partialString(String a)
     {
