@@ -24,6 +24,6 @@ public class Taschenrechner
     {
     double h=Double.parseDouble(JOptionPane.showInputDialog("bitte geben sie eine beliebige Zahl ein welche Dividiert werden soll"));
     double i=Double.parseDouble(JOptionPane.showInputDialog("bitte geben sie eine weitere beliebige Zahl ein"));
-    System.out.println(h*i);
+    System.out.println(h/i);
     }
 }
